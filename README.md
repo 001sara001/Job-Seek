@@ -118,4 +118,4 @@ Here are the key milestones that will guide us toward launching **Job&Seek**:
 
 ---
 
-This version of the README is designed to be engaging and informative, highlighting the features and objectives of the project while maintaining a creative and organized layout. Let me know if you need further tweaks or adjustments!
+
